@@ -1,0 +1,19 @@
+.bttn {
+  padding: 8px 20px;
+  cursor: pointer;
+  background-color: transparent;
+  color:white;
+  border: 1px solid white;
+  border-radius: 2px;
+
+}
+
+.bttn:hover {
+
+  background: white;
+  color: #242424;
+  transition: 250ms;
+  border: 1px solid black;
+  transition: all 0.3s ease-out;
+
+}
